@@ -2,6 +2,9 @@
   "name": "voosh-chatbot",
   "version": "1.0.0",
   "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "@chroma-core/default-embed": "^0.1.8",
     "@chroma-core/jina": "^0.1.7",
